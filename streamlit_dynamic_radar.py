@@ -7,7 +7,7 @@ import pandas as pd
 placeholder = st.empty()
 start_button = st.empty()
 
-def animate():  
+def radar_chart():  
     df = pd.DataFrame(dict(
     r=[random.randint(0,22),
        random.randint(0,22),
@@ -24,5 +24,5 @@ if start_button.button('Start',key='start'):
     if st.button('Stop',key='stop'):
         pass
     while True:
-        animate()
+        radar_chart()
         time.sleep(0.5)
