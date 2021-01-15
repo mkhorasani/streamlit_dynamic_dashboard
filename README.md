@@ -1,5 +1,5 @@
 # Developing a dynamically updated dashboard with Streamlit
 
-![Interactive Datetime Filter](https://miro.medium.com/max/700/1*MXZDQhas446N3kfB_MaVQQ.gif)
+Please use this [link](https://share.streamlit.io/mkhorasani/streamlit_dynamic_dashboard/main/streamlit_dynamic_radar.py) to view the demo app on Streamlit sharing.
 
-Implementing a visual datetime filter for timeseries data in Python. For further information please refer to the following [tutorial](https://khorasani.medium.com/creating-an-interactive-datetime-filter-with-pandas-and-streamlit-2f6818e90aed).
+![Streamlit dynamic dashboard](https://miro.medium.com/max/700/1*RIZxeF5gVsA7CwRKEVORGw.gif)
